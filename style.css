@@ -1,0 +1,39 @@
+body {
+ background-color: hsl(208deg, 96%, 7%) !important;
+ color: white !important;
+}
+h1 span  {
+background-color: hsl(208deg, 96%, 7%) !important;
+}
+.btn-info {
+background-color: #0d6efd;
+color: white;
+border-color: #0d6efd;
+margin: 5px 0 0 0;
+}
+.bg-danger {
+color: white !important;
+}
+.alert h4.alert-heading {
+font-weight: 800;
+}
+.bg-maintenance h4.alert-heading {
+font-weight: 800 !important;
+}
+.group-title {
+background-color: hsl(208deg,96%, 7%) !important;
+color: white;
+font-size: 30px;
+} 
+.monitor-list  {
+background-color: hsl(208deg,96%, 7%) !important;
+color: white;
+} 
+a {
+color: white;
+} 
+.item {
+background-color: hsl(208deg,96%, 7%) !important;
+color: white;
+border-color: hsl(208deg,96%, 7%) !;
+} 
